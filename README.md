@@ -19,9 +19,9 @@ Notes, exercises and a running cheatsheet for the module **Python for Data Scien
 | SW | Date | Mode | Topic | Content | Notes |
 |---|---|---|---|---|---|
 | 01 | 2026-09-17 | onsite | Python Basics | Script vs. compiled languages, PyCharm setup, console vs. script, data types and operations | [SW01](sw01/sw01_python_basics.md) |
-| 02 | 2026-09-24 | online | Control Structures I | Slicing, if-else, short-hands, match-case | |
-| 03 | 2026-10-01 | online | Control Structures II | while and for loops, AI | |
-| 04 | 2026-10-08 | onsite | Files, Functions I, Strings | Reading and writing files, function basics, strings, string formatting | |
+| 02 | 2026-09-24 | online | Control Structures I | Slicing, if-else, short-hands, match-case | [SW02](sw02/control_structures.md) |
+| 03 | 2026-10-01 | online | Control Structures II | while and for loops, AI | [SW03](sw03/loops.md) |
+| 04 | 2026-10-08 | onsite | Files, Functions I, Strings | Reading and writing files, function basics, strings, string formatting | [SW04](sw04/sw04_strings_functions.md) |
 | 05 | 2026-10-15 | online | Namespaces, Functions II | Parameter properties, (un)packing, recursion | |
 | 06 | 2026-10-22 | online | OOP I | Classes: attributes, constructor, methods, properties | |
 | 07 | 2026-10-29 | onsite | OOP II | Class vs. instance attributes, inheritance, multiple inheritance | |
