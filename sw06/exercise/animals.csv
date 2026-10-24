@@ -1,0 +1,12 @@
+animal_type, name, age, weight, legs
+dog, bello, 10, 6, 4
+snake, masha, 12, 42, 0
+dog, wuffi, 8, 9, 4
+cat, leslie, 5, 3, 4
+cat, dummy, 5, 5, 4
+cat, puffy, 5, 3, 4
+snake, snizzy, 5, 7, 0
+snake, sazzles, 2, 2, 0
+dog, buddy, 2, 2, 4
+cat, wooly, 5, 7, 4
+cat, beast, 5, 3, 4
