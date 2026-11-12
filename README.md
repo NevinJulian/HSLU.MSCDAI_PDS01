@@ -22,9 +22,9 @@ Notes, exercises and a running cheatsheet for the module **Python for Data Scien
 | 02 | 2026-09-24 | online | Control Structures I | Slicing, if-else, short-hands, match-case | [SW02](sw02/control_structures.md) |
 | 03 | 2026-10-01 | online | Control Structures II | while and for loops, AI | [SW03](sw03/loops.md) |
 | 04 | 2026-10-08 | onsite | Files, Functions I, Strings | Reading and writing files, function basics, strings, string formatting | [SW04](sw04/sw04_strings_functions.md) |
-| 05 | 2026-10-15 | online | Namespaces, Functions II | Parameter properties, (un)packing, recursion | |
-| 06 | 2026-10-22 | online | OOP I | Classes: attributes, constructor, methods, properties | |
-| 07 | 2026-10-29 | onsite | OOP II | Class vs. instance attributes, inheritance, multiple inheritance | |
+| 05 | 2026-10-15 | online | Namespaces, Functions II | Parameter properties, (un)packing, recursion | [SW05](sw05/sw05_functions_files.md) |
+| 06 | 2026-10-22 | online | OOP I | Classes: attributes, constructor, methods, properties | [SW06](sw06/sw06_oop_i.md) |
+| 07 | 2026-10-29 | onsite | OOP II | Class vs. instance attributes, inheritance, multiple inheritance | [SW07](sw07/sw07_oop_ii.md) |
 | 08 | 2026-11-05 | onsite | Modules | Modules, packages, imports, namespaces, remote development | |
 | 09 | 2026-11-12 | online | External Packages | pandas, NumPy, data visualization, Jupyter and marimo notebooks | |
 | 10 | 2026-11-19 | online | Short Expressions | Shallow vs. deep copy, lambda functions, list comprehensions, type annotations | |
