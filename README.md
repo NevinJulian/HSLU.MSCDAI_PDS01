@@ -25,7 +25,7 @@ Notes, exercises and a running cheatsheet for the module **Python for Data Scien
 | 05 | 2026-10-15 | online | Namespaces, Functions II | Parameter properties, (un)packing, recursion | [SW05](sw05/sw05_functions_files.md) |
 | 06 | 2026-10-22 | online | OOP I | Classes: attributes, constructor, methods, properties | [SW06](sw06/sw06_oop_i.md) |
 | 07 | 2026-10-29 | onsite | OOP II | Class vs. instance attributes, inheritance, multiple inheritance | [SW07](sw07/sw07_oop_ii.md) |
-| 08 | 2026-11-05 | onsite | Modules | Modules, packages, imports, namespaces, remote development | |
+| 08 | 2026-11-05 | onsite | Modules | Modules, packages, imports, namespaces, remote development | [SW08](sw08/sw08_modules.md) |
 | 09 | 2026-11-12 | online | External Packages | pandas, NumPy, data visualization, Jupyter and marimo notebooks | |
 | 10 | 2026-11-19 | online | Short Expressions | Shallow vs. deep copy, lambda functions, list comprehensions, type annotations | |
 | 11 | 2026-11-26 | onsite | Hackathon | Collaborative exercise | |
